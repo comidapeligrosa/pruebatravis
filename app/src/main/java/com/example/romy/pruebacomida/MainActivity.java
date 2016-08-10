@@ -1,4 +1,4 @@
-package com.example.romy.juegopeligroso2;
+package com.example.romy.pruebacomida;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
