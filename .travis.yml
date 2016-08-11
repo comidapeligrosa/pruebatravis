@@ -8,4 +8,5 @@ components:
 before_install:
 - chmod +x PruebaComida/gradlew
 install:
-- ./PruebaComida/gradlew assemble
+- cd PruebaComida
+  ./gradlew assemble
