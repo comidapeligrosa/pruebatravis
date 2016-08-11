@@ -2,5 +2,9 @@
     {
         "merged": "/home/romy/AndroidStudioProjects/FoodFight/PruebaComida/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
         "source": "/home/romy/AndroidStudioProjects/FoodFight/PruebaComida/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/romy/AndroidStudioProjects/pruebatravis/PruebaComida/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/romy/AndroidStudioProjects/pruebatravis/PruebaComida/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]
