@@ -9,3 +9,9 @@ before_install:
 - chmod +x gradlew
 install:
 - ./gradlew assemble
+group: 
+-stable
+dist: 
+-precise
+  os: 
+  -linux
