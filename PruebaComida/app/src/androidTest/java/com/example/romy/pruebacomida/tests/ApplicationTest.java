@@ -1,4 +1,4 @@
-package com.example.romy.pruebacomida;
+package com.example.romy.pruebacomida.tests;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
@@ -10,4 +10,12 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
     }
+
+    public void test_esto_siempre_pasa() {
+        assertTrue(5 > 1);
+    }
+    public void test_esto_nunca_pasa() {
+        assertTrue(5 < 1);
+    }
+
 }
